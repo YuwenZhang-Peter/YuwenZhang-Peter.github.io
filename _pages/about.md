@@ -18,4 +18,5 @@ In parallel, I study neural combinatorial optimization for routing and schedulin
 ## Education
 
 - Duke Kunshan University & Duke University (2022-present)
+
   B.S. in Data Science
