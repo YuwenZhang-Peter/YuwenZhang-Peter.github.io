@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Yuwen Zhang. I am a Data Science undergraduate at Duke Kunshan University & Duke University (dual degree, expected 2026) focusing on machine learning and AI for healthcare. I enjoy translating advanced methodologies into practical tools for real-world problems.
+Hi! I am Yuwen Zhang. I am a 1st year PhD student in Biostatistics at Duke University. Before coming to Duke, I earned my bachelor's degree in Data Science from Duke Kunshan University. My research focuses on machine learning and AI for healthcare. I enjoy translating advanced methodologies into practical tools for real-world problems.
 
 ## Research Interests
 
@@ -17,6 +17,10 @@ In parallel, I study neural combinatorial optimization for routing and schedulin
 
 ## Education
 
-- Duke Kunshan University & Duke University (2022-present)
+- Duke University (2026-present)
+
+  Ph.D. in Biostatistics
+
+- Duke Kunshan University & Duke University (2022-2026)
 
   B.S. in Data Science
